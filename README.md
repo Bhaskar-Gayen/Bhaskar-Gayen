@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhaskar Gayen
-- 👀 I’m interested in Problem Solving
-- 🌱 I’m currently learning DSA, Java, Spring, 
+- 👀 I’m interested in Problem Solving, Design
+- 🌱 I’m currently learning DSA, Java, Spring, System Design
 - 💞️ I’m looking to collaborate on Opensource 
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/bhaskar-gayen-53631221a/)
 
