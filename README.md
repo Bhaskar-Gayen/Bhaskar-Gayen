@@ -2,7 +2,7 @@
 - 👀 I’m interested in Problem Solving
 - 🌱 I’m currently learning DSA, Java, Spring, 
 - 💞️ I’m looking to collaborate on Opensource 
-- 📫 How to reach me https://www.linkedin.com/in/bhaskar-gayen-53631221a/
+- 📫 How to reach me [linkedin](https://www.linkedin.com/in/bhaskar-gayen-53631221a/)
 
 <!---
 Bhaskar-Gayen/Bhaskar-Gayen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
